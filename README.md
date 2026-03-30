@@ -259,6 +259,15 @@ if uploaded_face and device_mac:
 st.markdown('<div class="footer">🌐 Smart Exam Access System • AI-Based Face & Device Verification</div>', unsafe_allow_html=True)
 
 ```
+
+# Output
+<img width="1366" height="768" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/578ace1c-87ff-4245-9d3c-12175de04ce9" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/03f46f0a-f68d-4c73-92a4-abf8ba7aa804" />
+
 # 🔮 Future Work
 
 * Integrate real-time webcam-based face recognition for instant verification
